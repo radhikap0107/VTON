@@ -18,7 +18,7 @@ This project requires a CUDA-enabled GPU and compatible drivers to run efficient
 - [SHCP (LIP)](https://drive.google.com/file/d/1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH/view)
 - [SHCP (Pascal)](https://drive.google.com/file/d/1E5YwNKW2VOEayK9mWCS3Kpsxf-3z04ZE/view)
 
-The end to end pipeline can be run by uncommenting and modifying the final cell in the notebook. The notebook provides a sequential walkthrough of how the pipeline runs. 
+The notebook provides a sequential walkthrough of how the pipeline runs. The end to end pipeline can be run by uncommenting and modifying the final cell in the notebook. The notebook also include code to create and launch the gradio board. A live demo can be found at [this link](https://843392ebe46f2db6eb.gradio.live/). 
 
 ---
 
