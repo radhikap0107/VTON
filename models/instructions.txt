@@ -1,0 +1,4 @@
+Please download the following models and place them in this folder:
+- [PSPNet](https://drive.google.com/drive/folders/1ZOZ9hU3LEADvyR25Orur9mGkkpN8drY5)
+- [SHCP (LIP)](https://drive.google.com/file/d/1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH/view)
+- [SHCP (Pascal)](https://drive.google.com/file/d/1E5YwNKW2VOEayK9mWCS3Kpsxf-3z04ZE/view)

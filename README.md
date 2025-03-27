@@ -47,3 +47,15 @@ VTON/
 ```
 
 ---
+
+## Notes
+
+Some predictions (e.g., short-sleeve vs long-sleeve) may be imperfect due to limitations in segmentation output. This is a proof of concept, designed to highlight the logic and flow behind garment-aware masking. Improvements like learning-based transfer, pose refinement, or segmentation fine-tuning can be added in future work.
+
+## Acknowledgements
+
+- [SCHP: Self-Correction Human Parsing](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)
+- [PSPNet Human Parsing](https://github.com/Yukun-Huang/Single-Human-Parsing-LIP)
+- [OpenAI CLIP](https://github.com/openai/CLIP)
+
+
